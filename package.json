@@ -1,0 +1,25 @@
+{
+  "name": "react-native-ui-house",
+  "version": "1.0.0",
+  "description": "Customizable and reusable components for your react native project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Mahabeer/react-native-ui-house.git"
+  },
+  "keywords": [
+    "react-native",
+    "ui-components",
+    "reusable",
+    "components"
+  ],
+  "author": "Mr-Mahabeer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-Mahabeer/react-native-ui-house/issues"
+  },
+  "homepage": "https://github.com/Mr-Mahabeer/react-native-ui-house#readme"
+}
