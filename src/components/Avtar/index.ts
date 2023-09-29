@@ -1,2 +1,2 @@
 // @component ./Avatar.tsx
-export { default as Icon } from "./Avatar";
+export { default as Avatar } from "./Avatar";

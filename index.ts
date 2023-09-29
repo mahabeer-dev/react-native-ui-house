@@ -1,1 +1,3 @@
-export * from "@src/components/Avtar";
+import { Avatar } from "@src/components/Avtar";
+
+export { Avatar };
