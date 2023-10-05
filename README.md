@@ -29,7 +29,7 @@ Welcome to **react-native-ui-house** – a powerful and versatile npm library cr
 # 🔨 Usage
   
 ```jsx
-import { Avatar } from 'react-native-magnus';
+import { Avatar } from 'react-native-ui-house';
 
 <Avatar name="Test" imageUrl="https://example.com/image.jpg" />;
 ```
