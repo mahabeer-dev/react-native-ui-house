@@ -1,5 +1,6 @@
-# Introduction
 
+
+# Introduction
 Welcome to **react-native-ui-house** – a powerful and versatile npm library crafted with TypeScript, tailored for React Native developers seeking beautifully designed, reusable UI components to supercharge their projects.
 
 # About `react-native-ui-house`
@@ -18,6 +19,7 @@ Welcome to **react-native-ui-house** – a powerful and versatile npm library cr
 
 # Components included
 - **Avatar**: A versatile Avatar component with customisation of styles of image, container and text.
+- **IconButton**: A Touchable component which can be used as an Button with icon at prefix or suffix or both. Loading indicator with customizations and much more of a usual Button.
 
 # 📦 Installation
     npm install react-native-ui-house --save

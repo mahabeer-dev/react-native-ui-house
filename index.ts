@@ -1,3 +1,3 @@
-import { Avatar } from "./src/components/Avtar";
+import { Avatar, IconButton, Card } from "./src/components";
 
-export { Avatar };
+export { Avatar, IconButton, Card };
