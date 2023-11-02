@@ -20,6 +20,8 @@ Welcome to **react-native-ui-house** – a powerful and versatile npm library cr
 # Components included
 - **Avatar**: A versatile Avatar component with customisation of styles of image, container and text.
 - **IconButton**: A Touchable component which can be used as an Button with icon at prefix or suffix or both. Loading indicator with customizations and much more of a usual Button.
+- **Card**: A reusable Card component with extreme customizations as per the scenario.
+- **Badge**: A badge component that can be used in status showing as well as a notification badge and many more. All props are customizable.
 
 # 📦 Installation
     npm install react-native-ui-house --save
