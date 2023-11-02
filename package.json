@@ -1,6 +1,6 @@
 {
   "name": "react-native-ui-house",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Customizable and reusable components for your react native project.",
   "main": "index.ts",
   "scripts": {
