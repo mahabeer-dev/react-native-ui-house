@@ -1,4 +1,4 @@
-# Introduction
+# React Native UI House
 
 Welcome to **react-native-ui-house** – a powerful and versatile npm library crafted with TypeScript, tailored for React Native developers seeking beautifully designed, reusable UI components to supercharge their projects.
 
@@ -24,6 +24,8 @@ Welcome to **react-native-ui-house** – a powerful and versatile npm library cr
 - **Badge**: A badge component that can be used in status showing as well as a notification badge and many more. All props are customizable.
 - **Text Input**: A highly customizable text input component based on react native Text Input with Prefix and Sufix support, full style customization and much more.
 
+#### ...and more
+
 # 📦 Installation
 
     npm install react-native-ui-house --save
@@ -40,8 +42,20 @@ import { Avatar } from "react-native-ui-house";
 <Avatar name="Test" imageUrl="https://example.com/image.jpg" />;
 ```
 
-## Getting Involved
+## Contributing
 
-We believe in the power of open-source collaboration. If you have suggestions, feature requests, or would like to contribute to react-native-ui-house, please check out our [GitHub repository](https://github.com/Mr-Mahabeer/react-native-ui-house) and feel free to join our growing community of developers.
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-Thank you for choosing **react-native-ui-house** for your React Native projects. We're excited to see the incredible apps you'll create with it!
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+
+## Authors
+
+- **Mr. Mahabeer** - _Initial work_ - [Portfolio](http://mahabeer.me/)
+
+See also the list of [contributors](https://github.com/Mr-Mahabeer/react-native-ui-house/graphs/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Mr-Mahabeer/react-native-ui-house/blob/main/LICENSE) file for details
