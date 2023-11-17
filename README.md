@@ -23,6 +23,7 @@ Welcome to **react-native-ui-house** – a powerful and versatile npm library cr
 - **Card**: A reusable Card component with extreme customizations as per the scenario.
 - **Badge**: A badge component that can be used in status showing as well as a notification badge and many more. All props are customizable.
 - **Text Input**: A highly customizable text input component based on react native Text Input with Prefix and Sufix support, full style customization and much more.
+- **Password Input**: Similar to text input but with internal password show/hide toggle button. It can also be used dirext with the Formik Form for react native.
 
 #### ...and more
 
