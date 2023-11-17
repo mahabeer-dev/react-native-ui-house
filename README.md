@@ -1,6 +1,5 @@
-
-
 # Introduction
+
 Welcome to **react-native-ui-house** – a powerful and versatile npm library crafted with TypeScript, tailored for React Native developers seeking beautifully designed, reusable UI components to supercharge their projects.
 
 # About `react-native-ui-house`
@@ -18,12 +17,15 @@ Welcome to **react-native-ui-house** – a powerful and versatile npm library cr
 - **Responsive Design**: Ensure your app looks great on various device sizes and orientations with our responsive UI components, tested and optimized for a wide range of mobile devices.
 
 # Components included
+
 - **Avatar**: A versatile Avatar component with customisation of styles of image, container and text.
 - **IconButton**: A Touchable component which can be used as an Button with icon at prefix or suffix or both. Loading indicator with customizations and much more of a usual Button.
 - **Card**: A reusable Card component with extreme customizations as per the scenario.
 - **Badge**: A badge component that can be used in status showing as well as a notification badge and many more. All props are customizable.
+- **Text Input**: A highly customizable text input component based on react native Text Input with Prefix and Sufix support, full style customization and much more.
 
 # 📦 Installation
+
     npm install react-native-ui-house --save
 
     OR
@@ -31,18 +33,15 @@ Welcome to **react-native-ui-house** – a powerful and versatile npm library cr
     yarn add your-react-native-ui-library
 
 # 🔨 Usage
-  
+
 ```jsx
-import { Avatar } from 'react-native-ui-house';
+import { Avatar } from "react-native-ui-house";
 
 <Avatar name="Test" imageUrl="https://example.com/image.jpg" />;
 ```
-
 
 ## Getting Involved
 
 We believe in the power of open-source collaboration. If you have suggestions, feature requests, or would like to contribute to react-native-ui-house, please check out our [GitHub repository](https://github.com/Mr-Mahabeer/react-native-ui-house) and feel free to join our growing community of developers.
 
 Thank you for choosing **react-native-ui-house** for your React Native projects. We're excited to see the incredible apps you'll create with it!
-
-

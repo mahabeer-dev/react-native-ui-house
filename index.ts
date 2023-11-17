@@ -1,3 +1,9 @@
-import { Avatar, IconButton, Card, Badge } from "./src/components";
+import {
+  Avatar,
+  IconButton,
+  Card,
+  Badge,
+  CustomTextInput,
+} from "./src/components";
 
-export { Avatar, IconButton, Card, Badge };
+export { Avatar, IconButton, Card, Badge, CustomTextInput };
